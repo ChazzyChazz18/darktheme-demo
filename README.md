@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project_a
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# darktheme-demo
+A demo project showing how to implement the dark mode
+>>>>>>> 31b11474bc1124def0a5b6bf13643a0467e3d6d5
